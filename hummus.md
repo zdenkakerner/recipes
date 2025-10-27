@@ -1,6 +1,10 @@
-#recipes for hummus
-#Ingrediants
+# Recipe for hummus
+
+## Ingrediants
 *chickpeas
 *tahini
 *lemon
-#Instructions 
+*black pepper
+*salt
+#Instructions
+soak and boil chickpeas, mix with other ingredients 
